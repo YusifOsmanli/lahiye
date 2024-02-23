@@ -1,0 +1,53 @@
+.header__bir{
+    position: relative;
+}
+.header__iki{
+    background-color: #23548f;
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    gap: 20px ;
+    height: 65px;
+    align-items: center;
+}
+p{
+    color: white;
+}
+i{
+    color: white;
+}
+.icon__div{
+    display: flex;
+    gap: 10px;
+}
+.header__uc{
+    background-color: #23548f;
+    display: flex;
+    justify-content: space-around;
+}
+.margin__p{
+    margin: 0;
+}
+.search{
+    width: 500px;
+    height: 38px;
+    border-radius: 20px;
+    border: none;
+}
+.button__header{
+    background-color: rgb(247, 44, 44);
+    border-radius: 20px;
+    border: none;
+    height: 40px;
+    color: white;
+}
+
+.sebet{
+    display: flex;
+    gap: 20px;
+    margin-top: 17px;
+}
+.flags{
+    display: flex;
+    gap: 20px;
+}
